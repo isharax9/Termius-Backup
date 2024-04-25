@@ -2,4 +2,4 @@
  
 ### windows 
 
-is port is listinig ``netstat -ano | findstr ":3306"``
+is port is listinig `netstat -ano | findstr ":3306"`
